@@ -42,8 +42,6 @@ Cette semaine notre jeu commence ici: https://dranock.github.io/unserious-game/i
 - https://yvain16-69.github.io/unserious-game/index2.html(retravailler le fond ? mettre une image centrée, mettre des boutons pour les réponses. Absence de la signature)
 
 ## Phottes daurtograffe:
-- https://dranock.github.io/unserious-game/index.html ("S"oleil)
-- https://dranock.github.io/unserious-game/question2.html("Terre", "L"une, "bleue", évolué"s")
 - https://lmazenc34070.github.io/Unserious_game/index.html
 - https://lmazenc34070.github.io/Unserious_game/gagne.html
 - https://lmazenc34070.github.io/Unserious_game/question2.html
